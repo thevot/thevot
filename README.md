@@ -65,9 +65,7 @@ More public releases are planned as my projects evolve.
 
 I also create videos on YouTube. Building and sharing are connected for me: I enjoy making things, learning in public, and explaining ideas along the way.
 
-<!-- Optional: add your VERIFIED YouTube channel URL here.
-[Watch on YouTube](https://www.youtube.com/your-verified-channel)
--->
+[▶ Watch my videos on YouTube](https://www.youtube.com/@YOUR_CHANNEL)
 
 ## Keep independent development going 💜
 
