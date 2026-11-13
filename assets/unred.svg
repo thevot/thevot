@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 880 280" width="880" height="280" role="img">
+
+<defs>
+ <linearGradient id="c" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#1D2836"/></linearGradient>
+ <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#75829A" opacity=".13" fill="none"/></pattern>
+</defs>
+<rect width="880" height="280" rx="16" fill="url(#c)"/><rect width="880" height="280" rx="16" fill="url(#g)"/>
+
+<rect x="28" y="29" width="5" height="217" rx="2" fill="#BBACFF"/>
+<text x="61" y="83" font-family="DejaVu Sans, Arial, sans-serif" font-size="49" font-weight="800" fill="#F6F8FC">Unred.actor</text>
+<text x="63" y="128" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#BBACFF" letter-spacing="1.5">DOCUMENT REDACTION &amp; FORENSICS</text>
+
+<g transform="translate(552 27)">
+ <rect x="4" y="4" width="244" height="224" rx="10" fill="#171E2A" stroke="#8AA3C6"/>
+ <path d="M177 4 L248 74 L177 74Z" fill="#354358" stroke="#8AA3C6"/>
+ <g fill="#A9B9CE"><rect x="25" y="34" width="119" height="7" rx="3"/><rect x="25" y="54" width="155" height="7" rx="3"/></g>
+ <g fill="#A08FFF"><rect x="25" y="96" width="169" height="24" rx="4"/><rect x="25" y="135" width="128" height="24" rx="4"/></g>
+ <g stroke="#DBD7FF" stroke-width="2"><path d="M205 96L215 106L230 88" fill="none"/><path d="M205 136L215 146L230 128" fill="none"/></g>
+ <rect x="25" y="184" width="197" height="7" rx="3" fill="#A9B9CE"/>
+</g>
+<g transform="translate(62 168)"><rect x="0" y="0" width="401" height="57" rx="8" fill="#282540" stroke="#615685"/><circle cx="28" cy="27" r="12" stroke="#C3B2FF" stroke-width="4" fill="none"/><path d="M37 36L49 48" stroke="#C3B2FF" stroke-width="5"/><text x="69" y="34" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#D9D2FD">Audit redactions safely</text></g>
+<rect x=".5" y=".5" width="879" height="279" rx="16" stroke="#3B4A5D" fill="none"/>
+
+</svg>
