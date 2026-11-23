@@ -6,7 +6,7 @@
   <p>
     <a href="https://strudaw.com">StruDAW</a> &nbsp;•&nbsp;
     <a href="https://unred.actor">Unred.actor</a> &nbsp;•&nbsp;
-    Forge99 &nbsp;•&nbsp;
+    <a href="https://github.com/thevot/Forge99">Forge99</a> &nbsp;•&nbsp;
     <a href="https://github.com/sponsors/thevot">Support my work</a>
   </p>
 
@@ -15,7 +15,7 @@
 
 ## Hey, I'm Nicola 👋
 
-I'm an independent developer and content creator building **free web tools**, **creative software**, and **open-source components**.
+I'm an independent developer and content creator building **free web tools**, **creative software**, and **open-source projects**.
 
 I like taking complex ideas and turning them into tools that people can actually use — from making music in the browser to auditing document redactions and building worlds for classic games.
 
@@ -40,15 +40,15 @@ I like taking complex ideas and turning them into tools that people can actually
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/forge99.svg" alt="Forge99: modern Unreal Tournament 99 map editing" width="100%" />
-      <h3>Forge99 · In development</h3>
-      <p>A modern map editor for <em>Unreal Tournament '99</em>, created for people who still love building worlds for classic games.</p>
-      <p><em>Development updates and release details will follow.</em></p>
+      <a href="https://github.com/thevot/Forge99"><img src="./assets/forge99.svg" alt="Forge99: modern Unreal Tournament 99 map editing" width="100%" /></a>
+      <h3><a href="https://github.com/thevot/Forge99">Forge99</a> · Open-source desktop app</h3>
+      <p>A modern 64-bit 3D level editor and procedural arena suite for <em>Unreal Tournament '99</em>, written in Rust for Windows, Linux, and macOS.</p>
+      <p><a href="https://github.com/thevot/Forge99">Explore Forge99 →</a> &nbsp;·&nbsp; <a href="https://github.com/thevot/Forge99/releases">Latest release</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/thevot/strudel-engine"><img src="./assets/opensource.svg" alt="Open-source development" width="100%" /></a>
+      <a href="https://github.com/thevot?tab=repositories"><img src="./assets/opensource.svg" alt="Open-source development" width="100%" /></a>
       <h3>Open-source work · Available now</h3>
-      <p>I publish code and tools that others can inspect, use, and contribute to — including the StruDAW audio engine and a comic-archive conversion utility.</p>
+      <p>I publish code and tools that others can inspect, use, and contribute to — including Forge99, the StruDAW audio engine, and a comic-archive conversion utility.</p>
       <p><a href="https://github.com/thevot?tab=repositories">Browse repositories →</a></p>
     </td>
   </tr>
@@ -56,6 +56,7 @@ I like taking complex ideas and turning them into tools that people can actually
 
 ## Open-source repositories
 
+- 🗺️ **[Forge99](https://github.com/thevot/Forge99)** — a dual-licensed (MIT / Apache-2.0) 64-bit Rust 3D level editor and procedural arena suite for *Unreal Tournament '99*, with prebuilt releases for Windows, Linux, and macOS.
 - 🎛️ **[strudel-engine](https://github.com/thevot/strudel-engine)** — the AGPLv3-licensed audio engine that powers StruDAW's Strudel-based workflow.
 - 📚 **[CBR2CBZ](https://github.com/thevot/CBR2CBZ)** — a MIT-licensed Windows batch converter for `.cbr` comic archives to `.cbz`.
 
@@ -65,7 +66,7 @@ More public releases are planned as my projects evolve.
 
 I also create videos on YouTube. Building and sharing are connected for me: I enjoy making things, learning in public, and explaining ideas along the way.
 
-[▶ Watch my videos on YouTube](https://www.youtube.com/@YOUR_CHANNEL)
+[▶ Watch my videos on YouTube](https://www.youtube.com/c/NicolaSelenu)
 
 ## Keep independent development going 💜
 
