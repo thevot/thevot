@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 880 280" width="880" height="280" role="img" aria-label="Lingua Sarda: dynamic Sardinian vocabulary">
+
+<defs>
+ <linearGradient id="c" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#1D2836"/></linearGradient>
+ <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#75829A" opacity=".13" fill="none"/></pattern>
+</defs>
+<rect width="880" height="280" rx="16" fill="url(#c)"/><rect width="880" height="280" rx="16" fill="url(#g)"/>
+
+<rect x="28" y="29" width="5" height="217" rx="2" fill="#93DDF3"/>
+<text x="61" y="83" font-family="DejaVu Sans, Arial, sans-serif" font-size="49" font-weight="800" fill="#F6F8FC">Lingua Sarda</text>
+<text x="63" y="128" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#93DDF3" letter-spacing="1.5">DYNAMIC SARDINIAN VOCABULARY</text>
+
+<g transform="translate(61 168)">
+ <rect width="390" height="57" rx="8" fill="#18303D" stroke="#42809B"/>
+ <circle cx="29" cy="28" r="10" fill="none" stroke="#99E0F6" stroke-width="2.4"/>
+ <path d="M19 28H39M29 18C33 23 33 33 29 38M29 18C25 23 25 33 29 38" fill="none" stroke="#99E0F6" stroke-width="1.8"/>
+ <text x="53" y="34" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#D5F3FD">Explore Sardinian dialects</text>
+</g>
+
+<g transform="translate(556 26)">
+ <rect width="260" height="224" rx="12" fill="#14232F" stroke="#42809B" stroke-width="1.5"/>
+ <rect x="18" y="18" width="224" height="34" rx="7" fill="#1D3344" stroke="#396682"/>
+ <circle cx="35" cy="35" r="5" fill="none" stroke="#93DDF3" stroke-width="2"/>
+ <path d="M39 39L44 44" stroke="#93DDF3" stroke-width="2" stroke-linecap="round"/>
+ <rect x="52" y="31" width="96" height="8" rx="4" fill="#93DDF3" opacity=".82"/>
+ <rect x="18" y="68" width="128" height="10" rx="5" fill="#F6F8FC" opacity=".85"/>
+ <rect x="18" y="88" width="194" height="7" rx="3.5" fill="#9EB3C8" opacity=".6"/>
+ <rect x="18" y="103" width="166" height="7" rx="3.5" fill="#9EB3C8" opacity=".45"/>
+ <rect x="18" y="128" width="66" height="24" rx="12" fill="#193C39" stroke="#396D66"/>
+ <rect x="92" y="128" width="74" height="24" rx="12" fill="#18303D" stroke="#42809B"/>
+ <rect x="174" y="128" width="68" height="24" rx="12" fill="#282D4B" stroke="#494C81"/>
+ <rect x="31" y="137" width="40" height="6" rx="3" fill="#77ECD7" opacity=".9"/>
+ <rect x="105" y="137" width="48" height="6" rx="3" fill="#93DDF3" opacity=".9"/>
+ <rect x="187" y="137" width="42" height="6" rx="3" fill="#B9A5FF" opacity=".9"/>
+ <rect x="18" y="170" width="224" height="36" rx="8" fill="#1A2C3B" stroke="#315269"/>
+ <rect x="30" y="181" width="118" height="6" rx="3" fill="#93DDF3" opacity=".75"/>
+ <rect x="30" y="193" width="174" height="5" rx="2.5" fill="#9EB3C8" opacity=".5"/>
+</g>
+<rect x=".5" y=".5" width="879" height="279" rx="16" stroke="#3B4A5D" fill="none"/>
+
+</svg>

@@ -7,7 +7,7 @@
 <rect width="880" height="280" rx="16" fill="url(#c)"/><rect width="880" height="280" rx="16" fill="url(#g)"/>
 
 <rect x="28" y="29" width="5" height="217" rx="2" fill="#BBACFF"/>
-<text x="61" y="83" font-family="DejaVu Sans, Arial, sans-serif" font-size="49" font-weight="800" fill="#F6F8FC">Unred.actor</text>
+<text x="61" y="83" font-family="DejaVu Sans, Arial, sans-serif" font-size="49" font-weight="800" fill="#F6F8FC">unred.actor</text>
 <text x="63" y="128" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#BBACFF" letter-spacing="1.5">DOCUMENT REDACTION &amp; FORENSICS</text>
 
 <g transform="translate(552 27)">
